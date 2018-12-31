@@ -1,5 +1,5 @@
 ---
-layout: silex-layout-1
+layout: silex-layout
 title: Test 1
 testName: olala
 ---
